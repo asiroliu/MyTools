@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 """
     Name:       MyArgparse
     Author:     Andy Liu
-    Email :     aisro@qq.com
+    Email :     andy.liu.ud@hotmail.com
     Created:    3/26/2015
     Copyright:  All rights reserved.
     Licence:    This program is free software: you can redistribute it 
